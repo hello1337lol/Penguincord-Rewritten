@@ -19,7 +19,9 @@ V-1.8
 - Chat has now scrolling capabilities
 - Fixed issues with reconnect
 - Wrapping
-<img width="1300" height="974" alt="image" src="https://github.com/user-attachments/assets/f7efa885-5655-4869-8c67-20067395ccc2" />
+- MOTD
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f7efa885-5655-4869-8c67-20067395ccc2" />
+
 
 V-1.7
 - Added chat and full chat
@@ -28,7 +30,8 @@ V-1.7
 - Added /changename, change your name quickly
 - Better command input
 - SaAP restrictions lowered
-<img width="1300" height="974" alt="image" src="https://github.com/user-attachments/assets/fa3599b9-2c6c-40e2-aad2-b398d5b993b6" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/fa3599b9-2c6c-40e2-aad2-b398d5b993b6" />
+
 
 # Features to come
 DMs
