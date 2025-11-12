@@ -15,6 +15,11 @@ Great connection protocol
 Chat and Full Chat
 
 # Changelogs
+V-1.8.1
+- Up and down arrow keys to scroll
+- Username indicator
+- Fixed some bugs
+
 V-1.8
 - Chat has now scrolling capabilities
 - Fixed issues with reconnect
