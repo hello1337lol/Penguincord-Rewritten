@@ -19,6 +19,7 @@ V-1.8
 - Chat has now scrolling capabilities
 - Fixed issues with reconnect
 - Wrapping
+<img width="1300" height="974" alt="image" src="https://github.com/user-attachments/assets/f7efa885-5655-4869-8c67-20067395ccc2" />
 
 V-1.7
 - Added chat and full chat
