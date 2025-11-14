@@ -15,6 +15,10 @@ Great connection protocol
 Chat and Full Chat
 
 # Changelogs
+V-1.8.2
+- Improved SaAP detection.
+- Brang back some features
+
 V-1.8.1
 - Up and down arrow keys to scroll
 - Username indicator
