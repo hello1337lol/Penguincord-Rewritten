@@ -48,7 +48,10 @@ Universality (connecting to servers that aren't Cloudlink)
 Better SaAP
 
 # Help! My Penguincord isn't working!
-If your penguincord isn't working, turn on or off notifications by clicking the options icon to the left of the URL. Do not set it to Ask.
+If your penguincord isn't working, turn on or off notifications by clicking the options icon to the left of the URL. 
+
+*Do not set it to Ask.*
+
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/fdee4453-4eae-49df-bc15-ef864ae3b401" />
 
 If the checkmark doesn't appear, click Site Settings, then turn on/off notifications there.
